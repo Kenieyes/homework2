@@ -1,0 +1,8 @@
+.bash_history
+.cache/**
+.gitconfigaa
+.motd_shown
+.ssh/**
+.vscode-server/**
+.vscode/**
+.gitconfig
